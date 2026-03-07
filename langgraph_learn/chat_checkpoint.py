@@ -39,7 +39,7 @@ with MongoDBSaver.from_conn_string(DB_URI) as checkpointer:
 
     config = {
             "configurable": {
-                "thread_id": "piyush" # user_id
+                "thread_id": "sarthak" # user_id
             }
         }
 
